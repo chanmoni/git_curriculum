@@ -3,3 +3,5 @@ added new comment
 
 
 new edit to check merge
+
+check commit propery
