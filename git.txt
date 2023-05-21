@@ -6,8 +6,13 @@ new edit to check merge
 
 check commit propery
 
-
 ///added 0518
 edited for last assignment.
 
 Please check whtether this is properly edited and commited. 
+
+// added 0518
+edited for checking merge to main properly.
+If you can see this sentence in your main branch, that means it would success.
+Congratulation!
+
